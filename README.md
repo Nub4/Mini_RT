@@ -1,4 +1,6 @@
-<img width="1195" alt="Näyttökuva 2021-8-2 kello 22 02 07" src="https://user-images.githubusercontent.com/74473334/127916998-0163704b-9b42-4cb9-83bd-28668ba66010.png">
+<img width="1193" alt="Näyttökuva 2021-8-2 kello 22 05 05" src="https://user-images.githubusercontent.com/74473334/127917939-1be02584-21cc-4b54-bff3-69c712fa87fa.png">
+<img width="777" alt="Näyttökuva 2021-8-2 kello 22 09 41" src="https://user-images.githubusercontent.com/74473334/127917955-9a9bfaf7-358f-447f-a233-08cf7f59dc02.png">
+
 # miniRT
 This Ray Tracing program works on MacOS
 
